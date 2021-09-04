@@ -1,7 +1,7 @@
-const ADMINS = [1733661253,1821893296] // ID админов бота
+const ADMINS = [861691901] // ID админов бота
 const DB_URL = 'mongodb://c41667_botydvoitel_bot:JuLteKimwopor58@mongo1.c41667.h2,mongo2.c41667.h2,mongo3.c41667.h2/c41667_botydvoitel_bot?replicaSet=MongoReplica' // URL базы бота
 const QIWI_TOKEN = "8e4d5143efa812dc1cda7725969a21a2" // API ключ QIWI кошелька с полным доступом
-const BOT_TOKEN = "1705458975:AAEsHdbs-YATi4sXlM9_MnyjHCYPxj9gI4k" // Bot API Token
+const BOT_TOKEN = "1992451889:AAGDwn5H6Ej3iI2ewCghg1KEhQJa_Q-Ltic" // Bot API Token
 var config = {
 	payeer: {
 	  enabled: false,
